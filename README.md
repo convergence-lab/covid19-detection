@@ -26,7 +26,6 @@ python train.py
 ## Dataset
 
 COVID-19 image data collection
-https://github.com/ieee8023/covid-chestxray-dataset
 
 Joseph Paul Cohen and Paul Morrison and Lan Dao
 COVID-19 image data collection, arXiv:2003.11597, 2020
