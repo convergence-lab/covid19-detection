@@ -1,5 +1,36 @@
 # covid19-detection
 
+COVID19-detection is a Deep Learning Model to detect infected COVID19 or not. ROC AUC is about 96%.
+
+## download 
+
+```
+git clone https://github.com/convergence-lab/covid19-detection
+```
+
+## 学習方法
+
+clone following dataset repository someware 
+```
+git clone https://github.com/ieee8023/covid-chestxray-dataset
+```
+
+Change  DATADIR_HERE in src/config.toml to the path of the cloned dataset.
+```
+[data]
+base_dir = "DATADIR_HERE"
+```
+
+Excect train.py
+
+```
+python train.py
+```
+
+
+
+# covid19-detection
+
 胸部X線検査の画像から、コロナウィルスに罹患しているのかどうかを検出するディープラーニングモデルです。
 精度は　ROC AUC で 96%程度です。
 
