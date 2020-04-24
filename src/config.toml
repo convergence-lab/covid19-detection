@@ -1,0 +1,17 @@
+[data]
+base_dir = "DATADIR_HERE"
+
+[train]
+epochs = 200
+batch_size = 64
+lr = 1e-4
+betas = [0.9, 0.999]
+
+[model]
+in_filters = 1
+image_size = [64, 64]
+filters = 64
+kernel_size = 3
+padding = 1
+num_resblocks = 4
+num_classes = 2
