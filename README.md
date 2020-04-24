@@ -1,6 +1,6 @@
 # covid19-detection
 
-COVID19-detection is a Deep Learning Model to detect infected COVID19 or not. ROC AUC is about 96%.
+COVID19-detection is a Deep Learning Model to detect infected COVID19 from chest X-ray image. ROC AUC is about 96%.
 
 ## download 
 
