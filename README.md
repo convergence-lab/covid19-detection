@@ -3,6 +3,12 @@
 胸部X線検査の画像から、コロナウィルスに罹患しているのかどうかを検出するディープラーニングモデルです。
 精度は　ROC AUC で 96%程度です。
 
+## download 
+
+```
+git clone https://github.com/convergence-lab/covid19-detection
+```
+
 ## 学習方法
 
 どこかに、以下のリポジトリを cloneします
