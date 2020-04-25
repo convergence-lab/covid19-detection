@@ -42,7 +42,7 @@ git clone https://github.com/convergence-lab/covid19-detection
 
 ## 学習方法
 
-どこかに、以下のリポジトリを cloneします
+どこかに、胸部X線データリポジトリを cloneします
 ```
 git clone https://github.com/ieee8023/covid-chestxray-dataset
 ```
